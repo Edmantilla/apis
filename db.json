@@ -65,10 +65,10 @@
       "body": "Cómo funciona el protocolo HTTP."
     },
     {
-      "id": "3",
-      "userId": 3,
-      "title": "Arquitectura cliente-servidor",
-      "body": "Modelo de comunicación en aplicaciones web."
+      "userId": 4,
+      "title": "Título Actualizado",
+      "body": "Este es el contenido actualizado con un put.",
+      "id": "3"
     },
     {
       "id": "4",

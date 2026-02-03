@@ -17,3 +17,4 @@ const data = await response.json();
 console.log('Publicación actualizada:', data);
 }
 actualizarPublicacion(3, 4, 'Título Actualizado', 'Este es el contenido actualizado con un put.');
+
